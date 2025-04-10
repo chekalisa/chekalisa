@@ -14,8 +14,6 @@ Here you will find a selection of projects I have developed as part of my academ
 
 Time Series Forecasting 📈
 
-Text Mining in collaboration with Edinburgh Airport 🗣️✈️
-
 Machine Learning projects 🤖
 
 Scoring project 🎯
